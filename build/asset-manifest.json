@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.f29be75b.css",
-    "main.js": "/static/js/main.3a1db9fa.js",
+    "main.css": "/static/css/main.c9555600.css",
+    "main.js": "/static/js/main.f9439d01.js",
     "static/media/hero-video1.mp4": "/static/media/hero-video1.3116b4f7bf8d8b4b18a4.mp4",
+    "static/media/2.svg": "/static/media/2.f02ef39fd574dad944ce44e12cc76b34.svg",
+    "static/media/3.svg": "/static/media/3.a0a6d494168505960838b6c25c2273b6.svg",
     "static/media/Articles.svg": "/static/media/Articles.cbd3110adbeb74a04188b61c45763238.svg",
     "static/media/home-back.jpg": "/static/media/home-back.5e9a74cb9561b569d873.jpg",
-    "static/media/1.png": "/static/media/1.c32aee8a38f1d60f6b3c.png",
+    "static/media/bache.jpg": "/static/media/bache.1870d3a765c59653f6c1.jpg",
     "static/media/faqs.svg": "/static/media/faqs.590a2f89d90ae23f774ae823dd553b4c.svg",
     "static/media/Latest-Updates.svg": "/static/media/Latest-Updates.ae0026f62077bad1e7157c2f96773ef8.svg",
     "static/media/logo1.png": "/static/media/logo1.2f587ff413109ee0837a.png",
     "static/media/white-logo.png": "/static/media/white-logo.608f2df87ba6e3842134.png",
     "static/media/GST_Banner.jpg": "/static/media/GST_Banner.5ad67a60c260d46565b4.jpg",
+    "static/media/EverbrightsansRegular-ZVomZ.ttf": "/static/media/EverbrightsansRegular-ZVomZ.d1df63d36be9c7da8a6a.ttf",
+    "static/media/4.svg": "/static/media/4.d4a989132d2edf7e8e0e0db62ccf0feb.svg",
+    "static/media/6.svg": "/static/media/6.4a67db2b284cdf82de5ccdb594fc405f.svg",
     "index.html": "/index.html",
-    "main.f29be75b.css.map": "/static/css/main.f29be75b.css.map",
-    "main.3a1db9fa.js.map": "/static/js/main.3a1db9fa.js.map"
+    "main.c9555600.css.map": "/static/css/main.c9555600.css.map",
+    "main.f9439d01.js.map": "/static/js/main.f9439d01.js.map"
   },
   "entrypoints": [
-    "static/css/main.f29be75b.css",
-    "static/js/main.3a1db9fa.js"
+    "static/css/main.c9555600.css",
+    "static/js/main.f9439d01.js"
   ]
 }
